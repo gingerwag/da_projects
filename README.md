@@ -1,5 +1,5 @@
-# study_projects
-My projects for Data Analysis course
+# da_projects
+Portfolio of data analytics projects 
 <h1 style="font-weight:normal" align="center">
   &nbsp;Portfolio of data analytics projects&nbsp;
 </h1>
